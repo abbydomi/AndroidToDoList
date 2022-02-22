@@ -6,7 +6,10 @@
         <entry key="app/src/main/res/drawable/background_01.xml" value="0.173" />
         <entry key="app/src/main/res/drawable/background_02.xml" value="0.173" />
         <entry key="app/src/main/res/drawable/background_03.xml" value="0.173" />
+        <entry key="app/src/main/res/drawable/circular_button.xml" value="0.173" />
         <entry key="app/src/main/res/drawable/gradient_list.xml" value="0.158" />
+        <entry key="app/src/main/res/drawable/rounded_edit_text.xml" value="0.173" />
+        <entry key="app/src/main/res/layout/activity_list_display.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.28092193603515625" />
       </map>
     </option>
