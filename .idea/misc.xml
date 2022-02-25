@@ -18,8 +18,9 @@
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/rounded_edit_text.xml" value="0.173" />
         <entry key="app/src/main/res/drawable/rounded_list_view.xml" value="0.173" />
-        <entry key="app/src/main/res/layout/activity_list_display.xml" value="0.25030670166015623" />
+        <entry key="app/src/main/res/layout/activity_list_display.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.28092193603515625" />
+        <entry key="app/src/main/res/layout/middleman.xml" value="0.33" />
       </map>
     </option>
   </component>

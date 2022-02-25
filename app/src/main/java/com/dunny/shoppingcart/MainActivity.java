@@ -30,10 +30,14 @@ public class MainActivity extends AppCompatActivity {
 
         bNew.setOnClickListener(view -> {
             Intent intent = new Intent(this, ListDisplayActivity.class);
+            intent.putExtra("load",false);
             startActivity(intent);
         });
 
-
-
+        bLoad.setOnClickListener(view -> {
+            Intent intent = new Intent(this, ListDisplayActivity.class);
+            intent.putExtra("load",true);
+            startActivity(intent);
+        });
     }
 }
